@@ -23,7 +23,6 @@
 ## 🔐 **HackerOne Journey & CTF & Challanges Participation**
 
 - **HackerOne Submissions**
--   
 - in progress
   
 - **HackerOne CTF**  
