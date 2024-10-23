@@ -4,14 +4,9 @@
 ## :shield: Cybersecurity Projects & Labs
 
 ### Wireshark Network Traffic Analysis Lab
-- Explored packet analysis using Wireshark to detect network vulnerabilities and malicious traffic.
-- [GitHub Repo](https://github.com/YourUsername/YourRepo)
-
+- in progress
   
 - ## 🔒 **Linux Security from the Command Line**
-
-- Secured Linux servers using core command-line tools and scripts.
-- **[GitHub Repo](#)**
 
 ### Hands-on Learning:
 
@@ -21,16 +16,15 @@
 
   
 - **Python & Bash Automation Scripts**  
-  - Developed scripts for automating vulnerability scans and log analysis.  
-  - [GitHub Repo](#)
+  -in progress
 
 ---
 
 ## 🔐 **HackerOne Journey & CTF & Challanges Participation**
 
-- **HackerOne Submissions**  
-  - Participated in bug bounty programs, reported vulnerabilities to various platforms.  
-  - [HackerOne Profile](https://hackerone.com/ali_lotfy)
+- **HackerOne Submissions**
+-   
+- in progress
   
 - **HackerOne CTF**  
   - Completed multiple challenges, sharpening vulnerability detection and ethical hacking skills.
