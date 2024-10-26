@@ -31,8 +31,8 @@
   - [Hacker101 CTF-V1](https://github.com/Ali-lotfy/Hacker101-Micro-v1/tree/main)
   
 
-- **tryhackme Participation**
-- 
+- **TryHackMe Participation**
+  [TryHackMe Link](https://tryhackme.com/r/p/alilotfyalirakha)
 ---
 
 ## 📜 **Certifications**
@@ -68,7 +68,7 @@
   - Automated security tasks like log analysis and vulnerability scans.  
 - **Bug Bounties**:  
   - Active bug bounty hunter with successful vulnerability reports.
-  - 
+
 ## 🌐 **Connect with Me**
 
 [<img align="left" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/ali-lotfy94)
