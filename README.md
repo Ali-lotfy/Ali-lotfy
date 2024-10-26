@@ -4,7 +4,7 @@
 ## :shield: Cybersecurity Projects & Labs
 
 ### Wireshark Network Traffic Analysis Lab
-- in progress
+- **Wireshark Capture Packets**  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/8VOINNJICGEG)
   
 - ## 🔒 **Linux Security from the Command Line**
 
