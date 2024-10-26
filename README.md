@@ -25,11 +25,9 @@
 - **HackerOne Submissions**
 - in progress
   
-- **HackerOne CTF**  
+- **HackerOne CTF** [Hacker101 CTF-V1](https://github.com/Ali-lotfy/Hacker101-Micro-v1/tree/main)
   - Completed multiple challenges, sharpening vulnerability detection and ethical hacking skills.
 
-  - [Hacker101 CTF-V1](https://github.com/Ali-lotfy/Hacker101-Micro-v1/tree/main)
-  
 
 - **TryHackMe Participation**
   [TryHackMe Link](https://tryhackme.com/r/p/alilotfyalirakha)
