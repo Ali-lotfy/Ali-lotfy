@@ -30,7 +30,8 @@
 
 
 - **TryHackMe Participation**
-  [TryHackMe Link](https://tryhackme.com/r/p/alilotfyalirakha)
+- my profile [TryHackMe Link](https://tryhackme.com/r/p/alilotfyalirakha)
+- Pre Security LEARNING PATH Certificate -  
 ---
 
 ## 📜 **Certifications**
@@ -69,6 +70,10 @@
 
 ## 🌐 **Connect with Me**
 
+
 [<img align="left" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/ali-lotfy94)
 
 [<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne (amax)](https://hackerone.com/amax)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/alilotfyalirakha.png" alt="Your Image Badge" />
+
