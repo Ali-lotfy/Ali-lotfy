@@ -30,7 +30,7 @@
 
 
 - **TryHackMe Participation**
-- my profile [TryHackMe Link](https://tryhackme.com/r/p/alilotfyalirakha)
+- **[My TryHackMe Profile](https://tryhackme.com/r/p/alilotfyalirakha)**  
 - **[Pre Security LEARNING PATH Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSMIRUQNTT.png)**  
 ---
 
