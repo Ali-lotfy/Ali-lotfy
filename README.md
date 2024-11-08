@@ -52,7 +52,10 @@
     - Put It to Work: Prepare for Cybersecurity Jobs  
   - **[Certificate Link](https://coursera.org/verify/professional-cert/IGITYBLJUSJJ)**
 
-- **OWASP Top 10 - 2021** - **[Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)**
+- **OWASP Top 10 - 2021**
+   - [Infosec Certificate Link](https://coursera.org/verify/specialization/AP4G9K1IH2XB)
+   - [TryHackMe Badge](https://tryhackme.com/r/alilotfyalirakha/badges/owasp-10)
+  
 - **Google AI Essentials** - **[Certificate Link](https://coursera.org/verify/ZHPJZUVTODQ0)**
     
 ---
@@ -76,6 +79,8 @@
 [<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne (amax)](https://hackerone.com/amax)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/alilotfyalirakha.png" alt="Your Image Badge" />
+
+
 
 
 
