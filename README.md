@@ -28,8 +28,8 @@
 - **HackerOne CTF** [Hacker101 CTF-V1](https://github.com/Ali-lotfy/Hacker101-Micro-v1/tree/main)
   - Completed multiple challenges, sharpening vulnerability detection and ethical hacking skills.
 
+- ## 🔒 **TryHackMe Participation**
 
-- **TryHackMe Participation**
 - **[My TryHackMe Profile](https://tryhackme.com/r/p/alilotfyalirakha)**  
 - **[Pre Security LEARNING PATH Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSMIRUQNTT.png)**  
 ---
