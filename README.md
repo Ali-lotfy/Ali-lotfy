@@ -78,6 +78,7 @@
 
 [<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne (amax)](https://hackerone.com/amax)
 
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3658835)](https://tryhackme.com/r/p/alilotfyalirakha)
 
 
 
