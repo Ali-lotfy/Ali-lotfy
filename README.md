@@ -78,8 +78,6 @@
 
 [<img align="left" alt="HackerOne" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerone.svg" /> HackerOne (amax)](https://hackerone.com/amax)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/alilotfyalirakha.png" alt="Your Image Badge" />
-
 
 
 
