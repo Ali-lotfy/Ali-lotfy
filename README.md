@@ -41,10 +41,6 @@
 
 
 
-## 🔒 **TryHackMe Badges**
-
-
-
 ## 📜 **Certifications**
 
 - **CompTIA A+**  
