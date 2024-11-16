@@ -14,7 +14,7 @@
 
 - **Advanced Commands in Linux** - [Certificate Link](https://coursera.org/verify/0J6H7CI9QR4S)
 
-- **Linux PrivEsc** - [Badge Link ](https://tryhackme.com/r/alilotfyalirakha/badges/linux-privesc)
+- **Linux PrivEsc** - [Badge Link](https://tryhackme.com/r/Ali7/badges/linux-privesc)
 
   
 - **Python & Bash Automation Scripts**  
