@@ -33,7 +33,7 @@
 
 ## 🔒 **TryHackMe Participation**
 
-- **[My TryHackMe Profile](https://tryhackme.com/r/p/alilotfyalirakha)**  
+- **[My TryHackMe Profile](https://tryhackme.com/r/p/Ali7)**  
 
 
 - ## 🔒 **TryHackMe Certifications**
