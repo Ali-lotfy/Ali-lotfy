@@ -41,6 +41,7 @@
 - **[Pre Security LEARNING PATH Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSMIRUQNTT.png)**
 - **[Complete Beginner LEARNING PATH Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BGXI616GMG.png)**
 - **[Cyber Security 101 ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7SVOXLEQCY.pdf)**
+- **[Advent of Cyber 2024 ](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IOYQMVT8HS.pdf)**
 
 
 
